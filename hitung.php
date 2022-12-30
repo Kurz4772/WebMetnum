@@ -58,8 +58,8 @@
           </tr>
           <tr class="ms-2 me-2">
             <td>0.5x</td>
-            <td>1y</td>
-            <td>1z</td>
+            <td>y</td>
+            <td>z</td>
           </tr>
         </table>
         <p class="ms-2 me-2 mt-2">Keterangan : </p>
